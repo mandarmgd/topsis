@@ -2,7 +2,7 @@ Metadata-Version: 2.2
 Name: Topsis-Mandar-102203163
 Version: 1.1
 Summary: A Python Package which creates topsis rankings on the basis of performance scores
-Home-page: https://github.com/mandarmgd/Topsis_Mandar_102203163
+Home-page: https://github.com/mandarmgd/topsis
 Author: Mandar
 Author-email: mandargarud1811@gmail.com
 Classifier: Programming Language :: Python :: 3
@@ -32,7 +32,7 @@ Install the package using the following command:
 # pip install Topsis_Mandar_102203163
 
 In order to use the package include the following in your python program : 
-# import topsis as <name> 
+# import topsis as tp
 
 ## Features 
 The package currently consists of the following function: 

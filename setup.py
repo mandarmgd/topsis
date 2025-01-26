@@ -9,7 +9,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    url="https://github.com/mandarmgd/Topsis_Mandar_102203163", 
+    url="https://github.com/mandarmgd/topsis", 
     install_requires=[
         "numpy",
         "pandas",

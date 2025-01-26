@@ -7,7 +7,7 @@ Install the package using the following command:
 # pip install Topsis_Mandar_102203163
 
 In order to use the package include the following in your python program : 
-# import topsis as <name> 
+# import topsis as tp
 
 ## Features 
 The package currently consists of the following function: 
