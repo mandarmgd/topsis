@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Topsis-Mandar-102203163",
-    version="1.0",       
+    version="1.1",       
     author="Mandar",
     author_email="mandargarud1811@gmail.com",
     description="A Python Package which creates topsis rankings on the basis of performance scores",
